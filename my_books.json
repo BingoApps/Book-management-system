@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Adams on earth",
+        "author": "Late adam",
+        "isbn": "1",
+        "genre": "fantacy",
+        "price": 5.0,
+        "quantity": 10
+    },
+    {
+        "title": "Liverpool street",
+        "author": "gm witchiti",
+        "isbn": "2",
+        "genre": "adventure",
+        "price": 3.0,
+        "quantity": 5
+    },
+    {
+        "title": "exit",
+        "author": "eniti",
+        "isbn": "5",
+        "genre": "op",
+        "price": 5.0,
+        "quantity": 60
+    }
+]
